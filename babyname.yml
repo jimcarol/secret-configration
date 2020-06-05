@@ -15,6 +15,7 @@ data:
   SEGMENT_IO_PROJECT_ID: bVNQY1ZNYmZleA==
   SEGMENT_IO_READ: U0pzZ1BNWVh3dmRoa0RnalRjdnBzYVA0WjVFSUR6
   SEGMENT_IO_WRITE: VWNSWExLUVVEQg==
+  REGISTRY_HOST: aHR0cHM6Ly92Mi1xYS1yZWdpc3RyeS5rOHMudGhlYnVtcC5jb20=
 kind: Secret
 metadata:
   name: platform-babyname-sandbox-env
